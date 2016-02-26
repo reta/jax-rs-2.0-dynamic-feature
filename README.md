@@ -9,6 +9,3 @@ Apache CXF and Dynamic Features
 
         curl http://localhost:8080/rest/api/v2/people?count=100 -i
 
-- Validating API: 500 Internal Server Error 
-
-        curl http://localhost:8080/rest/api/v2/people?count=10 -i
